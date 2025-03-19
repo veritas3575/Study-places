@@ -1,2 +1,1 @@
-# Study-places
-Mặt trận cày cuốc
+1. List of awesome projects: https://project-awesome.org
